@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#id4{
+    text-align: center;
+}
+#div1{
+    border: 2px dashed rgba(80, 99, 105, 0.852);
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 50%;
+    margin-left: 25%; 
+}
+#id1{
+    padding-left: 41%; 
+}
+#id2{
+    padding: 37%;
+}
+p{
+    padding: 10px;
+}
+#div2{
+    border: 2px solid rgba(80, 99, 105, 0.852);
+    background-color: rgba(182, 195, 199, 0.852);
+    margin: 0px 40px 0px 40px;
+}
+#div3{
+    border: 2px solid  rgba(80, 99, 105, 0.852);
+    background-color: white;
+    margin: 0px 40px 0px 40px;
+}
+#div4{
+    border: 2px solid  rgba(80, 99, 105, 0.852);
+    background-color: white;
+    margin: 0px 40px 0px 40px;
+    height: 100px;
+    text-align: center;
+    padding: 5%;  
+}
